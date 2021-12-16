@@ -25,6 +25,15 @@ While the results weren't super promising for longer expressions the model perfo
 
 ### [Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)
 
+In the final project of a course in Advanced Machine Learning the task was to replicate the results of a famous paper within Machine Learning. Me and three classmates chose the 
+[(2003) Blei et. al. paper Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML/blob/main/LDA%20paper.pdf) which introduced the LDA model; a model that was created for topic modelling in large corpora in order to find low-dimensional representations of documents while retaining statistical relationships useful for tasks relating to information retrieval.
+
+Due to the model being intractible one needs to use some kind of approximation technique. We thus used an Variational Inference - Expectation Maximization (VI-EM) alogrithm.
+
+We also looked at possibilites to extend upon the original paper. One thing we achieved was plotting topics' popularity over time. Below follows such a plot for three topics.
+
+![Topics over time](/images/topicovertime.PNG)
+
 <!--
 **KodAgge/KodAgge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
