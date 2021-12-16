@@ -15,7 +15,10 @@ As part of the final project in a Deep Learning course at KTH me and three class
 Looking into previous research we found that an Encoder-Decoder model consisting of a convolutional neural network (CNN) and a long short-term memory (LSTM) network would be most promising for our task. We thus constructed an Encoder consisting of a CNN with batch normalization and max-pooling and a Decoder consisting of a LSTM with a soft attention mechanism. For better performance beam search was used during prediction.
 While the results weren't super promising for longer expressions the model performed well on some expression I wrote myself. Here are some examples!
 
-**Images**
+![Result A](/images/result_a.PNG)
+![Result B](/images/result_b.PNG)
+![Result C](/images/result_c.PNG)
+![Result D](/images/result_d.PNG)
 
 
 ### [Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)
