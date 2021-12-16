@@ -2,11 +2,11 @@
 
 Welcome to my GitHub!
 
-### Blackbox Feasibility Prediction
+### [Blackbox Feasibility Prediction](https://github.com/KodAgge/Feasibility-Prediction)
 
-### Img2LaTex
+### [Handwritten Mathematical Expressions to LaTeX](https://github.com/KodAgge/Img2Latex)
 
-### Re-Implementation of Latent Dirichlet Allocation
+### [Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)
 
 <!--
 **KodAgge/KodAgge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
