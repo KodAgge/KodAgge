@@ -1,4 +1,4 @@
-### Well met!
+### Well met! 👋
 
 Welcome to my GitHub!
 
