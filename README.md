@@ -14,7 +14,7 @@ _Below follows a gif of how the CMA-ES moves during its first 100 iteration, pro
   <img src="/images/PCA.gif" alt="PCAgif" width="750"/>
 </p>
 
-### ✍️[Handwritten Mathematical Expressions to LaTeX](https://github.com/KodAgge/Img2Latex)✍️
+### ✍️[Handwritten Mathematical Expressions to LaTeX-code](https://github.com/KodAgge/Img2Latex)✍️
 As part of the final project in a Deep Learning course at KTH me and three classmates got the idea to of building a model that translates handwritten mathemtical expressions directly to LaTeX-code. This could save us a lot of time since manually entering equations into LaTeX is a very tedious task.
 
 Looking into previous research we found that an Encoder-Decoder model consisting of a convolutional neural network (CNN) and a long short-term memory (LSTM) network would be most promising for our task. We thus constructed an Encoder consisting of a CNN with batch normalization and max-pooling and a Decoder consisting of a LSTM with a soft attention mechanism. For better performance beam search was used during prediction.
