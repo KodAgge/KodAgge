@@ -10,9 +10,7 @@ Working together with a fintech firm and three classmates we looked into the pos
 
 _Below follows a gif of how the CMA-ES moves during its first 100 iteration, projected down to 3 dimensions using PCA_
 
-![PCA](/images/PCA.gif)
-
-<img src="/images/PCA.gif" alt="PCAgif" width="50"/>
+<img src="/images/PCA.gif" alt="PCAgif" width="200"/>
 
 ### ✍️[Handwritten Mathematical Expressions to LaTeX](https://github.com/KodAgge/Img2Latex)✍️
 As part of the final project in a Deep Learning course at KTH me and three classmates got the idea to of building a model that translates handwritten mathemtical expressions directly to LaTeX-code. This could save us a lot of time since manually entering equations into LaTeX is a very tedious task.
