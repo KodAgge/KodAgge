@@ -32,7 +32,24 @@ Due to the model being intractible one needs to use some kind of approximation t
 
 We also looked at possibilites to extend upon the original paper. One thing we achieved was plotting topics' popularity over time. Below follows such a plot for three topics.
 
-![Topics over time](/images/topicovertime.PNG)
+![Topics over time](/images/topicovertime.png)
+
+### Wait, there's more!
+
+While the projects above are my favourites, I still have more to show. Take a look at the following list if you want to learn more (some are unfortunately in Swedish):
+
+* Deep Learning
+  1. Implementing a Neural Network (NN) from scratch
+  2. Implementing a Convolutional Neural Network (CNN) from scratch
+  3. Implementing a Recurrent Neural Network (RNN) from scratch
+  4. Predicting the winning team in League of Legends based on team compositions
+* Machine Learning
+  1. Projects within Statistical Machine Learning
+  2. Other projects within Advanced Machine Learning
+* Numerical analysis
+  1. Simulating the flight of a water rocket
+* Games
+  1. An implementation of the classic "Hunt the Wumpus" game in pygame
 
 <!--
 **KodAgge/KodAgge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
