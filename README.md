@@ -34,6 +34,10 @@ Due to the model being intractible one needs to use some kind of approximation t
 
 We also looked at possibilites to extend upon the original paper. One thing we achieved was plotting topics' popularity over time. Below follows such a plot for three topics.
 
+<p align="center">
+  <img src="/images/topicsovertime.png" alt="Topics over time"/>
+</p>
+
 ![Topics over time](/images/topicsovertime.png)
 
 ### Wait, there's more!
