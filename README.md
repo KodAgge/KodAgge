@@ -17,8 +17,6 @@ While the results weren't super promising for longer expressions the model perfo
 
 ![Result A](/images/result_a.PNG)
 ![Result B](/images/result_b.PNG)
-![Result C](/images/result_c.PNG)
-![Result D](/images/result_d.PNG)
 
 
 ### [Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)
