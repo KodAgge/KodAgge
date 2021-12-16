@@ -1,6 +1,6 @@
 # Well met! 👋
 
-Welcome to my GitHub! I'm currently pursuing a masters degree in Financial Mathematics at KTH in Stockholm, Sweden. I already have a bachelor's in Applied Mathematics + Industrial Engineering and Management at the same university. 
+Welcome to my GitHub! I'm currently pursuing a masters degree in Financial Mathematics at KTH in Stockholm, Sweden. I already have a bachelor's in Applied Mathematics + Industrial Engineering and Management, also at KTH. 
 
 Even though I'm pursuing a degree in Financial Mathematics I also have a big interest in Data Analytics and Data Science, more specifically in Machine Learning. This is reflected in the repos you can find under my handle. Here is a selection of the projects I'm most proud of!
 
