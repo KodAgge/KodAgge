@@ -32,7 +32,7 @@ In the final project of a course in Advanced Machine Learning the task was to re
 
 Due to the model being intractible one needs to use some kind of approximation technique. We thus used an Variational Inference - Expectation Maximization (VI-EM) alogrithm.
 
-We also looked at possibilites to extend upon the original paper. One thing we achieved was plotting topics' popularity over time. Below follows such a plot for three topics.
+We also looked at possibilites to extend upon the original paper. One thing we achieved was plotting topics' popularity over time. _Below follows such a plot for three topics._
 
 <p align="center">
   <img src="/images/topicsovertime.png" alt="Topics over time" width="500"/>
