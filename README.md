@@ -1,4 +1,12 @@
-### Hi there 👋
+### Well met!
+
+Welcome to my GitHub!
+
+### Blackbox Feasibility Prediction
+
+### Img2LaTex
+
+### Re-Implementation of Latent Dirichlet Allocation
 
 <!--
 **KodAgge/KodAgge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
