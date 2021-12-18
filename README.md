@@ -1,22 +1,32 @@
 # Well met! 👋
 
-Welcome to my GitHub! I'm currently pursuing a masters degree in Financial Mathematics at KTH in Stockholm, Sweden. I already have a bachelor's in Applied Mathematics + Industrial Engineering and Management, also at KTH. 
+Welcome to my GitHub! I'm currently pursuing a masters degree in **Financial Mathematics at KTH** in Stockholm, Sweden. I already have a bachelor's in **Applied Mathematics + Industrial Engineering and Management**, also at KTH. 
 
-Even though I'm pursuing a degree in Financial Mathematics I also have a big interest in Data Analytics and Data Science, more specifically in Machine Learning. This is reflected in the repos you can find under my handle. Continue reading for a selection of the projects I'm most proud of!
+Even though I'm pursuing a degree in Financial Mathematics I also have a big interest in **Data Analytics and Data Science**, more specifically in **Machine Learning**. This is reflected in the repos you can find under my handle. Continue reading for a selection of the projects I'm most proud of!
 
-### Langauges and Tools:
+### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" />]()
+[<img align="left" alt="Python" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/python.png" />]()
+[<img align="left" alt="SQL" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/sql2.png" />]()
+[<img align="left" alt="R" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/r.png" />]()
+[<img align="left" alt="Matlab" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/matlab.png" />]()
+[<img align="left" alt="PowerBI" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/powerbi.png" />]()
+[<img align="left" alt="Qlik" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/qlik4.png" />]()
+[<img align="left" alt="Excel" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/excel.png" />]()
+[<img align="left" alt="VBA" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/vba.svg" />]()
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/vsc.png" />]()
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=KodAgge&layout=compact&hide=jupyter%20notebook&include_all_commits=true&count_private=true)](https://github.com/KodAgge/)
+<br><br>
+
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=KodAgge&layout=compact&hide=jupyter%20notebook&include_all_commits=true&count_private=true&title_color=000000)](https://github.com/KodAgge/)
+
+<br>
 
 ## ❓📦[Blackbox Feasibility Prediction](https://github.com/KodAgge/Feasibility-Prediction)📦❓
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Feasibility-Prediction)](https://github.com/KodAgge/Feasibility-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Feasibility-Prediction&title_color=000000)](https://github.com/KodAgge/Feasibility-Prediction)
 
-Working together with a fintech firm and three classmates we looked into the possibility of using Machine Learning to speed up their operations. The team within the firm we were working with had one main task: solving a constrained non-linear optimization problem using an evolutionary optimization algorithm called CMA-ES. However, there was one problem, deciding upon the feasibility of the solutions the algorithm suggested was computationally heavy. Our task was thus to see if Machine Learning could be used to filter out infeasible solutions. We took an explorative approach, testing a wide range of Machine Learning algorithms, supervised as well as unsupervised. Unfortunetaly, not method yielded useful results. We thinks this is mainly due to the evolutionary algorithm advancing towards the optimum in iterational steps through the large feature space (~4000 dimensions), which means that the classifiers needs to extrapolate.
+Working together with a fintech firm and three classmates we looked into the possibility of using Machine Learning to speed up their operations. The team within the firm we were working with had one main task: solving a constrained non-linear optimization problem using an evolutionary optimization algorithm called CMA-ES. However, there was one problem, deciding upon the feasibility of the solutions the algorithm suggested was computationally heavy. Our task was thus to see if Machine Learning could be used to filter out infeasible solutions. We took an explorative approach, testing a wide range of Machine Learning algorithms, supervised as well as unsupervised. Unfortunetaly, no method yielded useful results. We thinks this is mainly due to the evolutionary algorithm advancing towards the optimum in iterational steps through the large feature space (~4000 dimensions), which means that the classifiers needs to extrapolate.
 
 _Below follows a gif of how the CMA-ES moves during its first 100 iterations, projected down to 3 dimensions using PCA_.
 
@@ -24,9 +34,11 @@ _Below follows a gif of how the CMA-ES moves during its first 100 iterations, pr
   <img src="/images/PCA.gif" alt="PCAgif" width="750"/>
 </p>
 
+<br>
+
 ## ✍️[Handwritten Mathematical Expressions to LaTeX-code](https://github.com/KodAgge/Img2Latex)✍️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Img2Latex)](https://github.com/KodAgge/Img2Latex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Img2Latex&title_color=000000)](https://github.com/KodAgge/Img2Latex)
 
 As part of the final project in a Deep Learning course at KTH me and three classmates got the idea to of building a model that translates handwritten mathemtical expressions directly to LaTeX-code. This could save us a lot of time since manually entering equations into LaTeX is a very tedious task.
 
@@ -34,13 +46,18 @@ Looking into previous research we found that an Encoder-Decoder model consisting
 
 While the results weren't super promising for longer expressions the model performed well on some expression I wrote myself. Here are some examples!
 
-![Result A](/images/result_a.PNG)
-![Result B](/images/result_b.PNG)
+<p align="center">
+  <img src="/images/result_a.PNG" alt="Results A"/>
+</p>
+<p align="center">
+  <img src="/images/result_b.PNG" alt="Results B"/>
+</p>
 
+<br>
 
 ## 📰[Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)📰
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Javigsv&repo=LDA_AdML)](https://github.com/Javigsv/LDA_AdML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Javigsv&repo=LDA_AdML&title_color=000000)](https://github.com/Javigsv/LDA_AdML)
 
   
 In the final project of a course in Advanced Machine Learning the task was to replicate the results of a famous paper within Machine Learning. Me and three classmates chose the 
@@ -54,6 +71,7 @@ We also looked at possibilites to extend upon the original paper. One thing we a
   <img src="/images/topicsovertime.png" alt="Topics over time" width="500"/>
 </p>
 
+<br>
 
 ## Wait, there's more!
 
@@ -72,8 +90,9 @@ While the projects above are my favourites, I still have more to show. Take a lo
 * **Games**
   1. [An implementation of the classic "Hunt the Wumpus" game in pygame](https://github.com/KodAgge/Wumpus)
 
+<br>
 
-[![KodAgge's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodAgge&hide=issues&count_private=true&show_icons=true)](https://github.com/KodAgge/) 
+[![KodAgge's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodAgge&hide=issues&count_private=true&show_icons=true&title_color=000000)](https://github.com/KodAgge/) 
 
 <!--
 **KodAgge/KodAgge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
