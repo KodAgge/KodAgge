@@ -46,8 +46,12 @@ Looking into previous research we found that an Encoder-Decoder model consisting
 
 While the results weren't super promising for longer expressions the model performed well on some expression I wrote myself. Here are some examples!
 
-![Result A](/images/result_a.PNG)
-![Result B](/images/result_b.PNG)
+<p align="center">
+  <img src="/images/result_a.PNG" alt="Results A"/>
+</p>
+<p align="center">
+  <img src="/images/result_b.PNG" alt="Results B"/>
+</p>
 
 <br>
 
