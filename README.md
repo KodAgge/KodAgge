@@ -15,6 +15,9 @@ Even though I'm pursuing a degree in Financial Mathematics I also have a big int
 [<img align="left" alt="Excel" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/excel.png" />]()
 [<img align="left" alt="VBA" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/vba.svg" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/vsc.png" />]()
+[<img align="left" alt="SAS" width="66px" src="https://github.com/KodAgge/KodAgge/blob/main/images/sas.png" />]()
+[<img align="left" alt="Data Grip" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/datagrip.png" />]()
+[<img align="left" alt="Google Sheets" width="19px" src="https://github.com/KodAgge/KodAgge/blob/main/images/googlesheets.png" />]()
 
 <br><br>
 
