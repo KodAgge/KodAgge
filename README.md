@@ -25,7 +25,7 @@ Even though I'm pursuing a degree in Financial Mathematics I also have a big int
 
 <br>
 
-## ❓📦[Blackbox Feasibility Prediction](https://github.com/KodAgge/Feasibility-Prediction)📦❓
+## 📦Blackbox Feasibility Prediction📦
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Feasibility-Prediction&title_color=000000)](https://github.com/KodAgge/Feasibility-Prediction)
 
@@ -39,7 +39,7 @@ _Below follows a gif of how the CMA-ES moves during its first 100 iterations, pr
 
 <br>
 
-## ✍️[Handwritten Mathematical Expressions to LaTeX-code](https://github.com/KodAgge/Img2Latex)✍️
+## ✍️Handwritten Mathematical Expressions to LaTeX-code✍️
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Img2Latex&title_color=000000)](https://github.com/KodAgge/Img2Latex)
 
@@ -58,7 +58,7 @@ While the results weren't super promising for longer expressions the model perfo
 
 <br>
 
-## 📰[Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)📰
+## 📰Re-Implementation of Latent Dirichlet Allocation📰
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Javigsv&repo=LDA_AdML&title_color=000000)](https://github.com/Javigsv/LDA_AdML)
 
