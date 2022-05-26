@@ -25,6 +25,24 @@ Even though I'm pursuing a degree in Financial Mathematics I also have a big int
 
 <br>
 
+## Reinforcement Learning for Market Making
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Reinforcement-Learning-for-Market-Making&title_color=000000)](https://github.com/KodAgge/Reinforcement-Learning-for-Market-Making)
+
+In collaboration with Skandinaviska Enskilda Baken (SEB), me and a classmate wrote our thesis about *Reinforcement Learning for Market Making*. Market making is the process of quoting buy and sell prices in a financial asset in order to provide liquidity and earn a profit on the spread. Setting these prices "correctly" is essential to drive volume, minimize risks and earn a profit &ndash; which historically has been done using analytical methods. However, derivation of optimal market making strategies is only possible when you make limiting and naïve assumptions on how markets work. There is thus an argument for using reinforcement learning to find better strategies since they do not depend on any of these assumptions.
+
+Using two ways of modelling the market, we were able to use reinforcement learning to find market making strategies. In the first model, for which one can derive analytical strategies, we were able to use tabular Q-learning to find strategies that matched the analytically optimal strategies in performance. In the second model, which is significantly more sophisticated, we compared the performance of tabular Q-learning and Double Deep Q-Network (DDQN) and found that the latter was more suitable for this problem.
+
+For more about our results, have a look at our **[thesis](https://github.com/KodAgge/Reinforcement-Learning-for-Market-Making/blob/main/Reinforcement%20Learning%20for%20Market%20Making.pdf)**.
+
+_Below follows an illustration of a limit order book (LOB), a central concept of market making_.
+
+<p align="center">
+  <img src="/images/LOBIllustration" alt="An illustration of a limit order book" width="750"/>
+</p>
+
+<br>
+
 ## 📦Blackbox Feasibility Prediction📦
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Feasibility-Prediction&title_color=000000)](https://github.com/KodAgge/Feasibility-Prediction)
@@ -58,7 +76,7 @@ While the results weren't super promising for longer expressions the model perfo
 
 <br>
 
-## 📰Re-Implementation of Latent Dirichlet Allocation📰
+<!-- ## 📰Re-Implementation of Latent Dirichlet Allocation📰
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Javigsv&repo=LDA_AdML&title_color=000000)](https://github.com/Javigsv/LDA_AdML)
 
@@ -74,7 +92,7 @@ We also looked at possibilites to extend upon the original paper. One thing we a
   <img src="/images/topicsovertime.png" alt="Topics over time" width="500"/>
 </p>
 
-<br>
+<br> -->
 
 ## Wait, there's more!
 
