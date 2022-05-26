@@ -38,7 +38,7 @@ For more about our results, have a look at our **[thesis](https://github.com/Kod
 _Below follows an illustration of a limit order book (LOB), a central concept of market making_.
 
 <p align="center">
-  <img src="/images/LOBIllustration.png" alt="An illustration of a limit order book" width="750"/>
+  <img src="/images/LOBIllustration.png" alt="An illustration of a limit order book" width="600"/>
 </p>
 
 <br>
