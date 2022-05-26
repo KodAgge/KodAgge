@@ -21,9 +21,9 @@ Even though I'm pursuing a degree in Financial Mathematics I also have a big int
 
 <br><br>
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=KodAgge&layout=compact&hide=jupyter%20notebook&include_all_commits=true&count_private=true&title_color=000000)](https://github.com/KodAgge/)
+<!-- [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=KodAgge&layout=compact&hide=jupyter%20notebook&include_all_commits=true&count_private=true&title_color=000000)](https://github.com/KodAgge/)
 
-<br>
+<br> -->
 
 ## 📈 Reinforcement Learning for Market Making 📉
 
