@@ -25,7 +25,7 @@ Even though I'm pursuing a degree in Financial Mathematics I also have a big int
 
 <br>
 
-## Reinforcement Learning for Market Making
+## 📈 Reinforcement Learning for Market Making 📉
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Reinforcement-Learning-for-Market-Making&title_color=000000)](https://github.com/KodAgge/Reinforcement-Learning-for-Market-Making)
 
@@ -38,7 +38,7 @@ For more about our results, have a look at our **[thesis](https://github.com/Kod
 _Below follows an illustration of a limit order book (LOB), a central concept of market making_.
 
 <p align="center">
-  <img src="/images/LOBIllustration" alt="An illustration of a limit order book" width="750"/>
+  <img src="/images/LOBIllustration.png" alt="An illustration of a limit order book" width="750"/>
 </p>
 
 <br>
