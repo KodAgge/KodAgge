@@ -98,18 +98,24 @@ We also looked at possibilites to extend upon the original paper. One thing we a
 
 While the projects above are my favourites, I still have more to show. Take a look at the following list if you want to learn more (some are unfortunately in Swedish):
 
-* **Deep Learning**
-  1. [Implementing a Neural Network (NN) from scratch](https://github.com/KodAgge/NNs-in-matlab)
-  2. [Implementing a Convolutional Neural Network (CNN) from scratch](https://github.com/KodAgge/CNNs-in-matlab)
-  3. [Implementing a Recurrent Neural Network (RNN) from scratch](https://github.com/KodAgge/RNNs-in-matlab)
-  4. [Predicting the winning team in League of Legends based on team compositions](https://github.com/KodAgge/TeamCompositions)
-* **Machine Learning**
-  1. [Projects within Statistical Machine Learning](https://github.com/KodAgge/StatisticalMachineLearning)
-  2. [Other projects within Advanced Machine Learning](https://github.com/KodAgge/AdvancedMachineLearning)
-* **Numerical analysis**
-  1. [Simulating the flight of a water rocket](https://github.com/KodAgge/WaterRocketSimulation)
-* **Games**
-  1. [An implementation of the classic "Hunt the Wumpus" game in pygame](https://github.com/KodAgge/Wumpus)
+>
+> * **Deep Learning**
+>   1. *[Implementing a Neural Network (NN) from scratch](https://github.com/KodAgge/NNs-in-matlab)*
+>   2. *[Implementing a Convolutional Neural Network (CNN) from scratch](https://github.com/KodAgge/CNNs-in-matlab)*
+>   3. *[Implementing a Recurrent Neural Network (RNN) from scratch](https://github.com/KodAgge/RNNs-in-matlab)*
+>   4. *[Predicting the winning team in League of Legends based on team compositions](https://github.com/KodAgge/TeamCompositions)*
+>
+> * **Machine Learning**
+>   1. *[Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)*
+>   2. *[Projects within Statistical Machine Learning](https://github.com/KodAgge/StatisticalMachineLearning)*
+>   3. *[Other projects within Advanced Machine Learning](https://github.com/KodAgge/AdvancedMachineLearning)*
+>
+> * **Numerical analysis**
+>   1. *[Simulating the flight of a water rocket](https://github.com/KodAgge/WaterRocketSimulation)*
+>
+> * **Games**
+>   1. *[An implementation of the classic "Hunt the Wumpus" game in pygame](https://github.com/KodAgge/Wumpus)*
+>
 
 <br>
 
