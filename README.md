@@ -1,8 +1,8 @@
 # Well met! 👋
 
-Welcome to my GitHub! I'm currently pursuing a masters degree in **Financial Mathematics at KTH** in Stockholm, Sweden. I already have a bachelor's in **Applied Mathematics + Industrial Engineering and Management**, also at KTH. 
+Welcome to my GitHub! I'm currently a consultant at Netlight within Data Science & Analytics. I have a masters degree in **Financial Mathematics** and a bachelor's in **Applied Mathematics + Industrial Engineering and Management**, both at KTH. 
 
-Even though I'm pursuing a degree in Financial Mathematics I also have a big interest in **Data Analytics and Data Science**, more specifically in **Machine Learning**. This is reflected in the repos you can find under my handle. Continue reading for a selection of the projects I'm most proud of!
+Despite my education, my biggest interest is in **Data Analytics and Data Science**, more specifically in **Machine Learning**. This is reflected in the repos you can find under my handle. Continue reading for a selection of the projects I'm most proud of!
 
 ### Languages and Tools:
 
