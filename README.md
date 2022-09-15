@@ -33,7 +33,7 @@ In collaboration with Skandinaviska Enskilda Baken (SEB), me and a classmate wro
 
 Using two ways of modelling the market, we were able to use reinforcement learning to find market making strategies. In the first model, for which one can derive analytical strategies, we were able to use tabular Q-learning to find strategies that matched the analytically optimal strategies in performance. In the second model, which is significantly more sophisticated, we compared the performance of tabular Q-learning and Double Deep Q-Network (DDQN) and found that the latter was more suitable for this problem.
 
-For more about our results, have a look at our **[thesis](https://github.com/KodAgge/Reinforcement-Learning-for-Market-Making/blob/main/Reinforcement%20Learning%20for%20Market%20Making.pdf)**.
+For more about our results, have a look at our **[thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1695877)**.
 
 _Below follows an illustration of a limit order book (LOB), a central concept of market making_.
 
