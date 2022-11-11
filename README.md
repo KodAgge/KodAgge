@@ -18,6 +18,12 @@ Despite my education, my biggest interest is in **Data Analytics and Data Scienc
 [<img align="left" alt="SAS" width="66px" src="https://github.com/KodAgge/KodAgge/blob/main/images/sas.png" />]()
 [<img align="left" alt="Data Grip" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/datagrip.png" />]()
 [<img align="left" alt="Google Sheets" width="19px" src="https://github.com/KodAgge/KodAgge/blob/main/images/googlesheets.png" />]()
+[<img align="left" alt="Kuberneters" width="19px" src="https://github.com/KodAgge/KodAgge/blob/main/images/k8s.png" />]()
+[<img align="left" alt="Grafana" width="19px" src="https://github.com/KodAgge/KodAgge/blob/main/images/grafana.png" />]()
+[<img align="left" alt="Argo Workflow" width="19px" src="https://github.com/KodAgge/KodAgge/blob/main/images/argo.png" />]()
+[<img align="left" alt="Docker" width="19px" src="https://github.com/KodAgge/KodAgge/blob/main/images/docker.png" />]()
+[<img align="left" alt="PostgreSQL" width="19px" src="https://github.com/KodAgge/KodAgge/blob/main/images/postgresql.png" />]()
+
 
 <br><br>
 
