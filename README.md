@@ -49,20 +49,6 @@ _Below follows an illustration of a limit order book (LOB), a central concept of
 
 <br>
 
-## 📦Blackbox Feasibility Prediction📦
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Feasibility-Prediction&title_color=000000)](https://github.com/KodAgge/Feasibility-Prediction)
-
-Working together with a fintech firm and three classmates we looked into the possibility of using Machine Learning to speed up their operations. The team within the firm we were working with had one main task: solving a constrained non-linear optimization problem using an evolutionary optimization algorithm called CMA-ES. However, there was one problem, deciding upon the feasibility of the solutions the algorithm suggested was computationally heavy. Our task was thus to see if Machine Learning could be used to filter out infeasible solutions. We took an explorative approach, testing a wide range of Machine Learning algorithms, supervised as well as unsupervised. Unfortunetaly, no method yielded useful results. We thinks this is mainly due to the evolutionary algorithm advancing towards the optimum in iterational steps through the large feature space (~4000 dimensions), which means that the classifiers needs to extrapolate.
-
-_Below follows a gif of how the CMA-ES moves during its first 100 iterations, projected down to 3 dimensions using PCA_.
-
-<p align="center">
-  <img src="/images/PCA.gif" alt="PCAgif" width="750"/>
-</p>
-
-<br>
-
 ## ✍️Handwritten Mathematical Expressions to LaTeX-code✍️
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Img2Latex&title_color=000000)](https://github.com/KodAgge/Img2Latex)
@@ -78,6 +64,20 @@ While the results weren't super promising for longer expressions the model perfo
 </p>
 <p align="center">
   <img src="/images/result_b.PNG" alt="Results B"/>
+</p>
+
+<br>
+
+## 📦Blackbox Feasibility Prediction📦
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KodAgge&repo=Feasibility-Prediction&title_color=000000)](https://github.com/KodAgge/Feasibility-Prediction)
+
+Working together with a fintech firm and three classmates we looked into the possibility of using Machine Learning to speed up their operations. The team within the firm we were working with had one main task: solving a constrained non-linear optimization problem using an evolutionary optimization algorithm called CMA-ES. However, there was one problem, deciding upon the feasibility of the solutions the algorithm suggested was computationally heavy. Our task was thus to see if Machine Learning could be used to filter out infeasible solutions. We took an explorative approach, testing a wide range of Machine Learning algorithms, supervised as well as unsupervised. Unfortunetaly, no method yielded useful results. We thinks this is mainly due to the evolutionary algorithm advancing towards the optimum in iterational steps through the large feature space (~4000 dimensions), which means that the classifiers needs to extrapolate.
+
+_Below follows a gif of how the CMA-ES moves during its first 100 iterations, projected down to 3 dimensions using PCA_.
+
+<p align="center">
+  <img src="/images/PCA.gif" alt="PCAgif" width="750"/>
 </p>
 
 <br>
@@ -115,6 +115,9 @@ While the projects above are my favourites, I still have more to show. Take a lo
 >   1. *[Re-Implementation of Latent Dirichlet Allocation](https://github.com/Javigsv/LDA_AdML)*
 >   2. *[Projects within Statistical Machine Learning](https://github.com/KodAgge/StatisticalMachineLearning)*
 >   3. *[Other projects within Advanced Machine Learning](https://github.com/KodAgge/AdvancedMachineLearning)*
+>
+> * **Coding challenges**
+>   1. *[Advent of Code 2022](https://github.com/KodAgge/Advent-of-Code-2022)*
 >
 > * **Numerical analysis**
 >   1. *[Simulating the flight of a water rocket](https://github.com/KodAgge/WaterRocketSimulation)*
